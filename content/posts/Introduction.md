@@ -1,7 +1,8 @@
 ---
-title: '"Introduction"'
+title: Introduction
 draft: false
 tags:
+  - Introduction
 ---
  
 I am Parth Batra. A BITS-Pilani'22 graduate.
